@@ -13,3 +13,7 @@ Part 1 Continued: Proxy Pattern(Questions 08-15)
 Q8)START-TASK -END
 Q9)System.out.println("Saving file...");
 Q10)SLOW_CALC FROM_CACHE
+Q11)Exception in thread "main" java.lang.NullPointerException: Cannot invoke "Q11.RealWorker.dowork()" because "this.real" is null
+        at Q11.BuggyProxy.run(Main.java:13)
+        at Q11.Main.main(Main.java:20)
+Q12)
