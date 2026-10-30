@@ -17,3 +17,4 @@ Q11)Exception in thread "main" java.lang.NullPointerException: Cannot invoke "Q1
         at Q11.BuggyProxy.run(Main.java:13)
         at Q11.Main.main(Main.java:20)
 Q12)if (real == null) real = new RealWorker();
+Q13)[A] Network and socket communication details
