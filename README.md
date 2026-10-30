@@ -12,3 +12,4 @@ Q5)Printing: Lab_Report.pdf
 Part 1 Continued: Proxy Pattern(Questions 08-15)
 Q8)START-TASK -END
 Q9)System.out.println("Saving file...");
+Q10)SLOW_CALC FROM_CACHE
