@@ -6,3 +6,4 @@ Q1)Open Loaded Open
 Q2)if (realImage == null) realImage = new RealImage();
 Q3)[B]Delay creating a heavy object until needed
 Q4)ProxyReady
+Q5)Printing: Lab_Report.pdf
