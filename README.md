@@ -16,4 +16,4 @@ Q10)SLOW_CALC FROM_CACHE
 Q11)Exception in thread "main" java.lang.NullPointerException: Cannot invoke "Q11.RealWorker.dowork()" because "this.real" is null
         at Q11.BuggyProxy.run(Main.java:13)
         at Q11.Main.main(Main.java:20)
-Q12)
+Q12)if (real == null) real = new RealWorker();
